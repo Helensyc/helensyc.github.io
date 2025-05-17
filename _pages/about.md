@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Division of XXXXX at The Chinese University of HongKong, Shenzhen. My research interests mainly lie in Bayesian Statistics, Spatial Analysis, Public Health. I graduated from School of Geography and Planning, Sun Yat-sen University with Bachelor of Engineering and from Department of Geography, National University of Singapore with master degree in Applied Geographic Information Systems. 
+I am an incoming PhD student in Division of XXXXX at The Chinese University of HongKong, Shenzhen. Before that, I graduated from School of Geography and Planning, Sun Yat-sen University with bachelor's degree in Urban and Rural Planning and from Department of Geography, National University of Singapore with master degree in Applied Geographic Information Systems. 
+
+I am particularly interested in how computing methods can be used to explore and solve social questions through lens of space, in the rapidly shifting world. And My current research interests mainly lie in Bayesian Statistics, Spatial Analysis, Public Health. Beyond academic interests, I have a passion and curiosity for astrology, and I am also a sport fan (especially for running and yoga), a regular dairy keeper, a C-pop lover.
 
 A data-driven personal website
 ======
