@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Computational Social Science at Chinese University of HongKong, Shenzhen. 
+I am an incoming PhD student in Division of XXXXX at The Chinese University of HongKong, Shenzhen. My research interests mainly lie in Bayesian Statistics, Spatial Analysis, Public Health. I graduated from School of Geography and Planning, Sun Yat-sen University with Bachelor of Engineering and from Department of Geography, National University of Singapore with master degree in Applied Geographic Information Systems. 
 
 A data-driven personal website
 ======
