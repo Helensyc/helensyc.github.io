@@ -13,13 +13,13 @@ In the past years, I have been involved in a wide range of fields, from urbaniza
 
 My current research interests mainly lie in Bayesian Statistics, Spatial Analysis and Public Health. Beyond academic interests, I have a passion and curiosity for astrology, and I am also a sports fan (especially for running and yoga), a regular dairy keeper, and a C-pop lover.
 
-Academic Interests
+**Academic Interests**
 ======
 - Bayesian Statistics
 - Spatial Analysis
 - Public Health
 
-Daily Hobbies
+**Daily Hobbies**
 ======
 - Running
 - Yoga
