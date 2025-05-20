@@ -40,12 +40,12 @@ Outside of research, I enjoy exploring astrology, running and yoga, keeping a re
       <li>
         <i class="fa-li fa fa-asterisk"></i>
         <strong>Other Software</strong><br />
-        ArcGIS, Adobe Creative Cloud, AutoCAD, SPSS
+        ArcGIS, Adobe Creative Cloud, SPSS
       </li>
       <li>
         <i class="fa-li fa fa-asterisk"></i>
-        <strong>Other</strong><br />
-        Motor Vehicle Driving, Simple Cooking 😀
+        <strong>Other😀</strong><br />
+        Motor Vehicle Driving, Simple Cooking
       </li>
     </ul>
   </div>
