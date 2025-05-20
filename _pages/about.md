@@ -30,22 +30,22 @@ Outside of research, I enjoy exploring astrology, running and yoga, keeping a re
   </div>
 
   <div class="col-md-6">
-    <h5 style="font-family: 'Georgia', serif; font-weight: 600;">Past Education</h5>
+    <h5 style="font-family: 'Georgia', serif; font-weight: 600;">Software & Skills</h5>
     <ul class="fa-ul">
       <li>
         <i class="fa-li fa fa-asterisk"></i>
-        <strong>M.Sc. in Computational Social Science</strong><br />
-        The Chinese University of HongKong, Shenzhen
+        <strong>Programming</strong><br />
+        R, Python, HTML, MATLAB, LATEX
       </li>
       <li>
         <i class="fa-li fa fa-asterisk"></i>
-        <strong>M.Sc. in Applied Geographic Information Systems</strong><br />
-        National University of Singapore
+        <strong>Other Software</strong><br />
+        ArcGIS, Adobe Creative Cloud, AutoCAD, SPSS
       </li>
       <li>
         <i class="fa-li fa fa-asterisk"></i>
-        <strong>B.Eng. in Urban and Rural Planning </strong><br />
-        Sun Yat-sen University
+        <strong>Other</strong><br />
+        Motor Vehicle Driving, Simple Cooking 😀
       </li>
     </ul>
   </div>
