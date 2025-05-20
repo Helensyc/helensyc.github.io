@@ -22,7 +22,7 @@ Outside of research, I enjoy exploring astrology, running and yoga, keeping a re
 <div class="row">
 
   <div class="col-md-6">
-    <h5 style="font-family: 'Georgia', serif;">Academic Interests</h5>
+    <h4 style="font-family: 'Georgia', serif; font-weight: 600;">Academic Interests</h4>
     <ul class="fa-ul">
       <li><i class="fa-li fa fa-book"></i> Bayesian Statistics</li>
       <li><i class="fa-li fa fa-book"></i> Spatial Analysis & Modelling</li>
@@ -32,7 +32,7 @@ Outside of research, I enjoy exploring astrology, running and yoga, keeping a re
   </div>
 
   <div class="col-md-6">
-    <h5 style="font-family: 'Georgia', serif;">Past Education</h5>
+    <h4 style="font-family: 'Georgia', serif; font-weight: 600;">Past Education</h4>
     <ul class="fa-ul">
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
