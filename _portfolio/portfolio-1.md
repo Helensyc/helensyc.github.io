@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Change of NDVI over a County in Henan Province"
+excerpt: "The project informs how to apply remote sensing techniques in application of agriculture clearly and concisely.<br/><img src='/images/agriculture1.png'>"
 collection: portfolio
 ---
 
