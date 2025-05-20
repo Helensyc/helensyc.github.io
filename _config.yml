@@ -22,13 +22,13 @@ repository               : "Helensyc/helensyc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "syc.png"
+  avatar           : "profile.png"
   name             : "Shi Yichang (石亦畅)"
   pronouns         : # example: "she/her"  
   bio              : "Hello, I am Yichang and my English name is Helen. Feel free to reach out via email for potential professional collaboration or discussion."
   location         : "Shenzhen"
   employer         : "CUHK(SZ)"
-  uri              : # URL
+  uri              : https://helensyc.github.io
   email            : "helensyc@foxmail.com" 
 
   # Academic websites
