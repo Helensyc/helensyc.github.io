@@ -35,7 +35,7 @@ Outside of research, I enjoy exploring astrology, running and yoga, keeping a re
       <li>
         <i class="fa-li fa fa-asterisk"></i>
         <strong>Programming</strong><br />
-        R, Python, HTML, MATLAB, LATEX
+        R, Python, HTML, MATLAB, LaTeX
       </li>
       <li>
         <i class="fa-li fa fa-asterisk"></i>
