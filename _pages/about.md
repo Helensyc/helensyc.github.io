@@ -20,30 +20,30 @@ Outside of research, I enjoy exploring astrology, running and yoga, keeping a re
 <div class="row">
 
   <div class="col-md-6">
-    <h4 style="font-family: 'Georgia', serif; font-weight: 600;">Academic Interests</h4>
+    <h5 style="font-family: 'Georgia', serif; font-weight: 600;">Academic Interests</h5>
     <ul class="fa-ul">
-      <li><i class="fa-li fa fa-book"></i> Bayesian Statistics</li>
-      <li><i class="fa-li fa fa-book"></i> Spatial Analysis & Modelling</li>
-      <li><i class="fa-li fa fa-book"></i> Public Health</li>
-      <li><i class="fa-li fa fa-book"></i> Urbanization</li>
+      <li><i class="fa-li fa fa-asterisk"></i> Bayesian Statistics</li>
+      <li><i class="fa-li fa fa-asterisk"></i> Spatial Analysis & Modelling</li>
+      <li><i class="fa-li fa fa-asterisk"></i> Public Health</li>
+      <li><i class="fa-li fa fa-asterisk"></i> Urbanization</li>
     </ul>
   </div>
 
   <div class="col-md-6">
-    <h4 style="font-family: 'Georgia', serif; font-weight: 600;">Past Education</h4>
+    <h5 style="font-family: 'Georgia', serif; font-weight: 600;">Past Education</h5>
     <ul class="fa-ul">
       <li>
-        <i class="fa-li fa fa-graduation-cap"></i>
+        <i class="fa-li fa fa-square"></i>
         <strong>M.Sc. in Computational Social Science</strong><br />
         The Chinese University of HongKong, Shenzhen
       </li>
       <li>
-        <i class="fa-li fa fa-graduation-cap"></i>
+        <i class="fa-li fa fa-square"></i>
         <strong>M.Sc. in Applied Geographic Information Systems</strong><br />
         National University of Singapore
       </li>
       <li>
-        <i class="fa-li fa fa-graduation-cap"></i>
+        <i class="fa-li fa fa-square"></i>
         <strong>B.Eng. in Urban and Rural Planning </strong><br />
         Sun Yat-sen University
       </li>
