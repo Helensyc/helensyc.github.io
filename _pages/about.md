@@ -2,10 +2,14 @@
 permalink: /
 title: "About Me"
 author_profile: true
+hide_title: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<h2 style="font-size: 1.75rem; font-weight: 600; font-family: Georgia, serif; margin-bottom: 1rem;">
+  About Me
+</h2>
 
 I am pursuing my doctoral studies (25Fall) in the School of Humanities and Social Science at The Chinese University of Hong Kong, Shenzhen. I hold a bachelor’s degree in Urban and Rural Planning from the School of Geography and Planning at Sun Yat-sen University, and a master’s degree in Applied Geographic Information Systems from the National University of Singapore.
 
