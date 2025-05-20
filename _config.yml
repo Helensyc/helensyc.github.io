@@ -22,7 +22,7 @@ repository               : "Helensyc/helensyc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "syc.png"
   name             : "Shi Yichang (石亦畅)"
   pronouns         : # example: "she/her"  
   bio              : "Hello, I am Yichang and my English name is Helen. Feel free to reach out via email for potential professional collaboration or discussion."
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://helensyc.github.io"
+  github           : # "https://helensyc.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
