@@ -12,39 +12,53 @@ author_profile: true
   Past Education
 </h4>
 
-<ul style="list-style-type: none; padding-left: 0; font-family: Georgia, serif; line-height: 1.6;">
-  <li><strong>M.Sc. in Computational Social Science</strong><br />
-      School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen (CUHKSZ)</li>
-  <li><strong>M.Sc. in Applied Geographic Information Systems</strong><br />
-      Faculty of Arts and Social Sciences, National University of Singapore (NUS)</li>
-  <li><strong>B.E. in Urban and Rural Planning</strong><br />
-      School of Geography and Planning, Sun Yat-sen University (SYSU)</li>
+<ul class="fa-ul" style="font-family: Georgia, serif;">
+  <li>
+    <i class="fa-li fa fa-book"></i>
+    <strong>M.Sc. in Computational Social Science</strong><br />
+    School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+  </li>
+  <li>
+    <i class="fa-li fa fa-book"></i>
+    <strong>M.Sc. in Applied Geographic Information Systems</strong><br />
+    Faculty of Arts and Social Sciences, National University of Singapore (NUS)
+  </li>
+  <li>
+    <i class="fa-li fa fa-book"></i>
+    <strong>B.E. in Urban and Rural Planning</strong><br />
+    School of Geography and Planning, Sun Yat-sen University (SYSU)
+  </li>
 </ul>
+
 
 <h4 style="font-size: 1.25rem; font-weight: 600; font-family: Georgia, serif; margin-top: 2rem; margin-bottom: 1rem;">
   Work Experience
 </h4>
 
-<div style="font-family: Georgia, serif; line-height: 1.6;">
-  <p>
+<ul class="fa-ul" style="font-family: Georgia, serif; line-height: 1.7; font-size: 1rem;">
+  <li>
+    <i class="fa-li fa fa-briefcase"></i>
     <strong>Intern – Urban Planning and Design Institute of Shenzhen</strong><br />
-    ● Performed facility coverage analysis based on the Dijkstra algorithm, and facility accessibility analysis using the 2SFCA method.<br />
+    ● Performed facility coverage analysis based on the Dijkstra algorithm, and facility accessibility analysis using the two-step floating catchment area (2SFCA) method.<br />
     ● Packaged the implementation and uploaded it to a private PyPI repository.<br />
-    ● Collaborated with frontend and backend teams to optimize algorithms for visualization and performance.
-  </p>
+    ● Collaborated with frontend and backend teams to optimize the algorithms for web visualization and runtime performance.
+  </li>
 
-  <p>
+  <li>
+    <i class="fa-li fa fa-briefcase"></i>
     <strong>Urban Planner – Henan Urban Planning and Design Institute Co., Ltd.</strong><br />
-    ● Led one village planning project; participated in six township and several village planning projects.<br />
-    ● Participated in delineation of urban development boundaries and historic district preservation.
-  </p>
+    ● Responsible for one village planning project;<br />
+    ● Participated in six township planning projects and several village planning projects.<br />
+    ● Participated in the delineation of urban development boundaries in one county and a historic district preservation planning.
+  </li>
 
-  <p>
+  <li>
+    <i class="fa-li fa fa-briefcase"></i>
     <strong>Intern – Guangzhou Urban Planning and Design Survey Research Institute</strong><br />
-    ● Took part in the Kunming industrial survey project.<br />
-    ● Performed comparative land productivity analysis between Kunming and Guangzhou.
-  </p>
-</div>
+    ● Participated in the project of Kunming industrial survey.<br />
+    ● Performed comparative analysis on the land productivity of leading industries of Kunming and Guangzhou.
+  </li>
+</ul>
 
 
 
