@@ -18,27 +18,32 @@ Outside of research, I enjoy exploring astrology, running and yoga, keeping a re
 <div class="row">
 
   <div class="col-md-6">
-    <h3>Interests</h3>
+    <h3>Academic Interests</h3>
     <ul class="fa-ul">
-      <li><i class="fa-li fa fa-book"></i> Statistical Demography</li>
-      <li><i class="fa-li fa fa-book"></i> Bayesian Modeling</li>
-      <li><i class="fa-li fa fa-book"></i> Global Health</li>
-      <li><i class="fa-li fa fa-book"></i> Time Series Analysis</li>
+      <li><i class="fa-li fa fa-book"></i> Bayesian Statistics</li>
+      <li><i class="fa-li fa fa-book"></i> Spatial Analysis & Modelling</li>
+      <li><i class="fa-li fa fa-book"></i> Public Health</li>
+      <li><i class="fa-li fa fa-book"></i> Urbanization</li>
     </ul>
   </div>
 
   <div class="col-md-6">
-    <h3>Education</h3>
+    <h3>Past Education</h3>
     <ul class="fa-ul">
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
-        <strong>PhD in Biostatistics, 2017</strong><br />
+        <strong>M.Sc.in Computational Social Science</strong><br />
+        The Chinese University of HongKong, Shenzhen
+      </li>
+      <li>
+        <i class="fa-li fa fa-graduation-cap"></i>
+        <strong>M.Sc.in Applied Geographic Information Systems</strong><br />
         National University of Singapore
       </li>
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
-        <strong>BSc Hons in Statistics, 2012</strong><br />
-        National University of Singapore
+        <strong>B.Eng.in Urban and Rural Planning </strong><br />
+        Sun Yat-sen University
       </li>
     </ul>
   </div>
