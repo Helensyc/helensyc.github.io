@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "syc.jpg"
+  avatar           : "/images/syc.jpg"
   name             : "Shi Yichang (石亦畅)"
   pronouns         : # example: "she/her"  
   bio              : "Hello, I am Yichang and my English name is Helen. Feel free to reach out via email for potential professional collaboration or discussion."
-  location         : #"Earth"
-  employer         : #"Red Brick University"
+  location         : "Shenzhen"
+  employer         : "CUHK(SZ)"
   uri              : # URL
   email            : "helensyc@foxmail.com" 
 
