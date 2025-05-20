@@ -32,17 +32,17 @@ Outside of research, I enjoy exploring astrology, running and yoga, keeping a re
     <ul class="fa-ul">
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
-        <strong>M.Sc.in Computational Social Science</strong><br />
+        <strong>M.Sc. in Computational Social Science</strong><br />
         The Chinese University of HongKong, Shenzhen
       </li>
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
-        <strong>M.Sc.in Applied Geographic Information Systems</strong><br />
+        <strong>M.Sc. in Applied Geographic Information Systems</strong><br />
         National University of Singapore
       </li>
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
-        <strong>B.Eng.in Urban and Rural Planning </strong><br />
+        <strong>B.Eng. in Urban and Rural Planning </strong><br />
         Sun Yat-sen University
       </li>
     </ul>
