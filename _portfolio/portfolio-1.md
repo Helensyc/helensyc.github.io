@@ -1,8 +1,12 @@
 ---
 title: "Change of NDVI over a County in Henan Province"
 excerpt: |
-  The project informs how to apply remote sensing techniques in application of agriculture clearly and concisely.<br/>
-  <img src="/images/agriculture1.png" style="width: 50%; display: inline-block; margin: 1rem 0;" />
+  <div style="display: flex; align-items: flex-start; gap: 1rem;">
+    <img src="/images/agriculture1.png" style="width: 45%; display: block; margin: 0;" />
+    <p style="margin: 0; font-size: 0.95rem; line-height: 1.4;">
+      The project informs how to apply remote sensing techniques in application of agriculture clearly and concisely. It demonstrates how NDVI data changes over time and how these can be visualized in GIS workflows.
+    </p>
+  </div>
 collection: portfolio
 ---
 
