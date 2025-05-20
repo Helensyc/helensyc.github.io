@@ -4,37 +4,47 @@ permalink: /experience/
 author_profile: true
 ---
 
-<h2 style="font-size: 1.75rem; font-weight: 600; font-family: Georgia, serif; margin-bottom: 1rem;">
+<h2 style="font-size: 1.75rem; font-weight: 600; font-family: Georgia, serif; margin-bottom: 1.5rem;">
   Experience
 </h2>
 
-<h4 style="font-size: 1.75rem; font-weight: 600; font-family: Georgia, serif; margin-bottom: 1rem;">
+<h4 style="font-size: 1.25rem; font-weight: 600; font-family: Georgia, serif; margin-top: 2rem; margin-bottom: 1rem;">
   Past Education
 </h4>
 
-M.Sc. in Computational Social Science, The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+<ul style="list-style-type: none; padding-left: 0; font-family: Georgia, serif; line-height: 1.6;">
+  <li><strong>M.Sc. in Computational Social Science</strong><br />
+      The Chinese University of Hong Kong, Shenzhen (CUHKSZ)</li>
+  <li><strong>M.Sc. in Applied Geographic Information Systems</strong><br />
+      National University of Singapore (NUS)</li>
+  <li><strong>B.E. in Urban and Rural Planning</strong><br />
+      Sun Yat-sen University (SYSU)</li>
+</ul>
 
-M.Sc. in Applied Geographic Information Systems, National University of Singapore (NUS)
-
-B.E. in Urban and Rural Planning, Sun Yat-sen University (SYSU)
-
-<h4 style="font-size: 1.75rem; font-weight: 600; font-family: Georgia, serif; margin-bottom: 1rem;">
+<h4 style="font-size: 1.25rem; font-weight: 600; font-family: Georgia, serif; margin-top: 2rem; margin-bottom: 1rem;">
   Work Experience
 </h4>
 
-**Intern in Urban Planning and Design Institute of Shenzhen**
-Perform facility coverage analysis based on the Dijkstra algorithm, and facility accessibility analysis based on the two-step floating catchment area (2SFCA) method. 
-Package the implementation and upload it to a private PyPI repository.
-Collaborate with frontend and backend teams to optimize the algorithms for web visualization and runtime performance.
+<div style="font-family: Georgia, serif; line-height: 1.6;">
+  <p>
+    <strong>Intern – Urban Planning and Design Institute of Shenzhen</strong><br />
+    • Performed facility coverage analysis based on the Dijkstra algorithm, and facility accessibility analysis using the 2SFCA method.<br />
+    • Packaged the implementation and uploaded it to a private PyPI repository.<br />
+    • Collaborated with frontend and backend teams to optimize algorithms for visualization and performance.
+  </p>
 
-**Urban Planner in Henan Urban Planning and Design Institute Co., Ltd.**
-Responsible for one village planning project;
-Participate in six township planning projects and several village planning projects.
-Participate in the delineation of urban development boundaries in one county and a historic district preservation planning.
+  <p>
+    <strong>Urban Planner – Henan Urban Planning and Design Institute Co., Ltd.</strong><br />
+    • Led one village planning project; participated in six township and several village planning projects.<br />
+    • Participated in delineation of urban development boundaries and historic district preservation.
+  </p>
 
-**Intern in Guangzhou Urban Planning and Design Survey Research Institute**
-Participate in the project of Kunming industrial survey. 
-Performed comparative analysis on the land productivity of leading industries of Kunming and Guangzhou.
+  <p>
+    <strong>Intern – Guangzhou Urban Planning and Design Survey Research Institute</strong><br />
+    • Took part in the Kunming industrial survey project.<br />
+    • Performed comparative land productivity analysis between Kunming and Guangzhou.
+  </p>
+</div>
 
 
 
