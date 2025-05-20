@@ -14,3 +14,33 @@ My past academic journey has widely spanned urbanization, human geography, publi
 Outside of research, I enjoy exploring astrology, running and yoga, keeping a regular diary, and listening to C-pop. I value the interplay between analytical thinking and creative curiosity, which continuously inspires both my academic and personal life.
 
 📬 You can reach me at **224030204@link.cuhk.edu.cn**.
+
+<div class="row">
+
+  <div class="col-md-6">
+    <h3>Interests</h3>
+    <ul class="fa-ul">
+      <li><i class="fa-li fa fa-book"></i> Statistical Demography</li>
+      <li><i class="fa-li fa fa-book"></i> Bayesian Modeling</li>
+      <li><i class="fa-li fa fa-book"></i> Global Health</li>
+      <li><i class="fa-li fa fa-book"></i> Time Series Analysis</li>
+    </ul>
+  </div>
+
+  <div class="col-md-6">
+    <h3>Education</h3>
+    <ul class="fa-ul">
+      <li>
+        <i class="fa-li fa fa-graduation-cap"></i>
+        <strong>PhD in Biostatistics, 2017</strong><br />
+        National University of Singapore
+      </li>
+      <li>
+        <i class="fa-li fa fa-graduation-cap"></i>
+        <strong>BSc Hons in Statistics, 2012</strong><br />
+        National University of Singapore
+      </li>
+    </ul>
+  </div>
+
+</div>
