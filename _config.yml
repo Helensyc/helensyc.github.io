@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shi Yichang/Personal Homepage"
+title                    : "Shi Yichang"
 title_separator          : "-"
 name                     : &name "Yichang"
 description              : &description "a graduate student at CUHK(SZ)"
-url                      : https://helensyc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://helensyc.github.io  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Helensyc/helensyc.github.io"
 
@@ -22,7 +22,7 @@ repository               : "Helensyc/helensyc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/syc.png"
+  avatar           : "syc.png"
   name             : "Shi Yichang (石亦畅)"
   pronouns         : # example: "she/her"  
   bio              : "Hello, I am Yichang and my English name is Helen. Feel free to reach out via email for potential professional collaboration or discussion."
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "https://helensyc.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
