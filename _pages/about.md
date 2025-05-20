@@ -7,20 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Division of XXXXX at The Chinese University of HongKong, Shenzhen. Before that, I graduated from School of Geography and Planning, Sun Yat-sen University with bachelor's degree in Urban and Rural Planning and from Department of Geography, National University of Singapore with master degree in Applied Geographic Information Systems.
+I am an incoming PhD student (Fall 2025) in the Division of Computational Social Science at The Chinese University of Hong Kong, Shenzhen. I hold a bachelor’s degree in Urban and Rural Planning from the School of Geography and Planning at Sun Yat-sen University, and a master’s degree in Applied Geographic Information Systems from the National University of Singapore.
 
-In the past years, I have been involved in a wide range of fields, from urbanization, human geography, public health, transportation, to GIS, remote sensing, spatial statistics, etc., thus empowering me perspective of space. 
+My past academic journey has widely spanned urbanization, human geography, public health, GIS, remote sensing, and spatial statistics, cultivating a strong spatial perspective and a growing enthusiasm for applying computational methods to address social challenges. Currently, my research interests focus on Bayesian statistics, spatial analysis and modelling, and public health.
 
-My current research interests mainly lie in Bayesian Statistics, Spatial Analysis and Public Health. Beyond academic interests, I have a passion and curiosity for astrology, and I am also a sports fan (especially for running and yoga), a regular dairy keeper, and a C-pop lover.
-
-## Academic Interests
-- Bayesian Statistics
-- Spatial Analysis
-- Public Health
-
-## Daily Hobbies
-- Running
-- Yoga
-- Keeping Dairy
-- Pop Music
-- Some table tennis, badminton and guitar
+Outside of research, I enjoy exploring astrology, running and yoga, keeping a regular diary, and listening to C-pop. I value the interplay between analytical thinking and creative curiosity, which continuously inspires both my academic and personal life.
