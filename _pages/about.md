@@ -13,7 +13,7 @@ I am pursuing my doctoral studies (25Fall) in the School of Humanities and Socia
 
 My past academic journey has widely spanned urbanization, human geography, public health, GIS, remote sensing, and spatial statistics, cultivating a strong spatial perspective and a growing enthusiasm for applying computational methods to address social challenges. Currently, my research interests focus on Bayesian statistics, spatial analysis & modelling, and public health.
 
-Outside of research, I enjoy exploring astrology, running and yoga, keeping a regular diary, and listening to C-pop. I value the interplay between analytical thinking and creative curiosity, which continuously inspires both my academic and personal life.
+Outside of research, I enjoy exploring astrology, running and yoga (table tennis and badminton are preferred too), keeping a regular diary, and listening to C-pop. I value the interplay between analytical thinking and creative curiosity, which continuously inspires both my academic and personal life.
 
 📬 You can reach me at **224030204@link.cuhk.edu.cn**.
 
