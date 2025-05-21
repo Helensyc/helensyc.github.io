@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-family: Georgia, serif; font-weight: 600; font-size: 1.75rem;'>Change of NDVI over a County in Henan Province</span>"
+title: "<span style='font-family: Georgia, serif; font-weight: 600; font-size: 1.5rem;'>Change of NDVI over a County in Henan Province</span>"
 excerpt: |
   <div style="display: flex; align-items: flex-start; gap: 1rem; margin-top: 1.5rem;">
     <img src="/images/agriculture1.png" style="width: 45%; display: block; margin: 0;" />
