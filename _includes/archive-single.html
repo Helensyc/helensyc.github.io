@@ -60,6 +60,17 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
+
+    {% if post.tags %}
+      <p class="page__tags" style="margin-top: 0.5rem;">
+        <i class="fa fa-tags" aria-hidden="true"></i>
+        {% for tag in post.tags %}
+          <span style="display: inline-block; background: #f0f0f0; color: #333; padding: 2px 8px; margin-right: 4px; border-radius: 12px; font-size: 0.75rem;">
+            {{ tag }}
+          </span>
+        {% endfor %}
+      </p>
+    {% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
