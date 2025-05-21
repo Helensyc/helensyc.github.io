@@ -4,7 +4,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-<h2 style="font-size: 1.75rem; font-weight: 600; font-family: Georgia, serif; margin-bottom: 1.5rem;">
+<h2 style="font-size: 2.25rem; font-weight: 600; font-family: Georgia, serif; margin-bottom: 1.5rem;">
   Experience
 </h2>
 
