@@ -1,5 +1,5 @@
 ---
-title: "Urban Design: The Idyllic City of the Future"
+title: "The Idyllic City of the Future"
 excerpt: |
   <div style="display: flex; align-items: flex-start; gap: 1rem;">
     <img src="/images/design1.png" style="width: 45%; display: block; margin: 0;" />
@@ -8,6 +8,8 @@ excerpt: |
     </p>
   </div>
 collection: portfolio
+tags:
+  - Urbanization
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
