@@ -1,5 +1,6 @@
 ---
-title: "<span style='font-family: Georgia, serif; font-weight: 600; font-size: 1.5rem;'>Relationship between Housing Price and Nighttime Light Intensity (NTL)</span>"
+title: "Relationship between Housing Price and Nighttime Light Intensity (NTL)"
+hide_title:True
 excerpt: |
   <div style="display: flex; align-items: flex-start; gap: 1rem; margin-top: 1.5rem;">
     <img src="/images/NTL1.png" style="width: 45%; display: block; margin: 0;" />
@@ -12,5 +13,7 @@ tags:
   - Spatial Analysis
   - Urbanization
 ---
-
+<h1 style="font-size: 2rem; font-family: Georgia, serif; font-weight: 600; margin-bottom: 1rem;">
+  Relationship between Housing Price and Nighttime Light Intensity (NTL)
+</h1>
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
