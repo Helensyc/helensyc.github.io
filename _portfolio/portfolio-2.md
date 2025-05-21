@@ -1,7 +1,7 @@
 ---
-title: "Relationship between Housing Price and Nighttime Light Intensity (NTL)"
+title: "<span style='font-family: Georgia, serif; font-weight: 600; font-size: 1.75rem;'>Relationship between Housing Price and Nighttime Light Intensity (NTL)</span>"
 excerpt: |
-  <div style="display: flex; align-items: flex-start; gap: 1rem;">
+  <div style="display: flex; align-items: flex-start; gap: 1rem; margin-top: 1.5rem;">
     <img src="/images/NTL1.png" style="width: 45%; display: block; margin: 0;" />
     <p style="margin: 0; font-size: 0.95rem; line-height: 1.4;">
       The project derived from my master's thesis. Part of this project draws on ideas and methods from urban expansion projects, and uses functions to fit the housing price and NTL intensity distribution.
