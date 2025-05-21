@@ -1,6 +1,6 @@
 ---
 title: "Relationship between Housing Price and Nighttime Light Intensity (NTL)"
-hide_title:true
+hide_title: true
 excerpt: |
   <div style="display: flex; align-items: flex-start; gap: 1rem; margin-top: 1.5rem;">
     <img src="/images/NTL1.png" style="width: 45%; display: block; margin: 0;" />
