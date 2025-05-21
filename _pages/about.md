@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h2 style="font-size: 1.75rem; font-weight: 600; font-family: Georgia, serif; margin-bottom: 1rem;">
+<h2 style="font-size: 2.25rem; font-weight: 600; font-family: Georgia, serif; margin-bottom: 1rem;">
   About Me
 </h2>
 
