@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-family: Georgia, serif; font-weight: 600; font-size: 1.75rem;'>Relationship between Housing Price and Nighttime Light Intensity (NTL)</span>"
+title: "<span style='font-family: Georgia, serif; font-weight: 600; font-size: 1.5rem;'>Relationship between Housing Price and Nighttime Light Intensity (NTL)</span>"
 excerpt: |
   <div style="display: flex; align-items: flex-start; gap: 1rem; margin-top: 1.5rem;">
     <img src="/images/NTL1.png" style="width: 45%; display: block; margin: 0;" />
