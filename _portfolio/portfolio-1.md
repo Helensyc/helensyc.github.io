@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-family: Georgia, serif; font-weight: 600; font-size: 1.75rem;'>The Idyllic City of the Future</span>"
+title: "<span style='font-family: Georgia, serif; font-weight: 600; font-size: 1.5rem;'>The Idyllic City of the Future</span>"
 excerpt: |
   <div style="display: flex; align-items: flex-start; gap: 1rem; margin-top: 1.5rem;">
     <img src="/images/design1.png" style="width: 45%; display: block; margin: 0;" />
