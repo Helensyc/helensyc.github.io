@@ -11,9 +11,9 @@ redirect_from:
 
 I am pursuing my doctoral studies (25Fall) in the School of Humanities and Social Science at The Chinese University of Hong Kong, Shenzhen. I hold a bachelor’s degree in Urban and Rural Planning from the School of Geography and Planning at Sun Yat-sen University, and a master’s degree in Applied Geographic Information Systems from the National University of Singapore.
 
-My past academic journey has widely spanned urbanization, human geography, public health, GIS, remote sensing, and spatial statistics, cultivating a strong spatial perspective and a growing enthusiasm for applying computational methods to address social challenges. Currently, my research interests focus on Bayesian statistics, spatial analysis & modelling, time series analysis and public health.
+My past academic journey has widely spanned urbanization, human geography, public health, GIS, remote sensing, and spatial statistics, cultivating my spatial perspective and a growing enthusiasm for applying computational methods to address social challenges. Currently, my academic interests focus on Bayesian statistics, spatial analysis & modelling, time series analysis and public health.
 
-Outside of research, I enjoy exploring astrology, running and yoga (table tennis and badminton are preferred too), keeping a regular diary, and listening to C-pop. I value the interplay between analytical thinking and creative curiosity, which continuously inspires both my academic and personal life.
+Outside of work and study, I enjoy exploring astrology, running and yoga (table tennis and badminton are preferred too), keeping a regular diary, and listening to C-pop. Recently, my favorite quote is: As above, so below~
 
 📬 You can reach me at **224030204@link.cuhk.edu.cn**.
 
