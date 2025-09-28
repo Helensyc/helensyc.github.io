@@ -11,21 +11,19 @@ redirect_from:
 
 I am pursuing my doctoral studies (25Fall) in the School of Humanities and Social Science at The Chinese University of Hong Kong, Shenzhen. I hold a bachelor’s degree in Urban and Rural Planning from the School of Geography and Planning at Sun Yat-sen University, and a master’s degree in Applied Geographic Information Systems from the National University of Singapore.
 
-My past academic journey has widely spanned urbanization, human geography, public health, GIS, remote sensing, and spatial statistics, cultivating my spatial perspective and a growing enthusiasm for applying computational methods to address social challenges. Currently, my academic interests focus on Bayesian statistics, spatial analysis & modelling, time series analysis and public health.
+My past academic journey has widely spanned urbanization, human geography, public health, GIS, remote sensing, and spatial statistics, cultivating my spatial perspective and a growing enthusiasm for applying computational methods to address social challenges. Currently, my academic interests are applied demography, applied statistics and modeling, urban and rural topics, and various computational social science methods.
 
-Outside of work and study, I enjoy traveling, running and yoga (table tennis and badminton are preferred too), keeping a regular diary, and listening to C-pop. 
-
-📬 You can reach me at **224030204@link.cuhk.edu.cn**.
+📬 You can reach me at **yichangshi@link.cuhk.edu.cn**.
 
 <div class="row">
 
   <div class="col-md-6">
     <h5 style="font-family: 'Georgia', serif; font-weight: 600;">Academic Interests</h5>
     <ul class="fa-ul">
-      <li><i class="fa-li fa fa-asterisk"></i> Bayesian Statistics</li>
-      <li><i class="fa-li fa fa-asterisk"></i> Spatial Analysis</li>
-      <li><i class="fa-li fa fa-asterisk"></i> Spatio-Temporal Modeling</li>
-      <li><i class="fa-li fa fa-asterisk"></i> Public Health</li>
+      <li><i class="fa-li fa fa-asterisk"></i> Applied Demography</li>
+      <li><i class="fa-li fa fa-asterisk"></i> Applied Statistics and Modeling</li>
+      <li><i class="fa-li fa fa-asterisk"></i> Urban and Rural Topics</li>
+      <li><i class="fa-li fa fa-asterisk"></i> Computational Social Science Methods</li>
     </ul>
   </div>
 
@@ -35,7 +33,7 @@ Outside of work and study, I enjoy traveling, running and yoga (table tennis and
       <li>
         <i class="fa-li fa fa-asterisk"></i>
         <strong>Programming</strong><br />
-        R, Python, HTML, MATLAB, LaTeX
+        R, Python, C++(basic)
       </li>
       <li>
         <i class="fa-li fa fa-asterisk"></i>
