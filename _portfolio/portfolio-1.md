@@ -22,4 +22,4 @@ Qiqi Qiang and I are involved in this project, and we employ High Performance Co
 
 The work is summarized on the university’s website in the form of a case study. [Please click here to see the English version!](https://itso.cuhk.edu.cn/en/article/512) [Please click here to see the Chinese version!](https://itso.cuhk.edu.cn/article/512)
 
-![描述文本](/images/your_image.png)
+![Flowchart of the Adult Mortality Project](/images/Adult_Mort_Flowchart_HPC.png)
