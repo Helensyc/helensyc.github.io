@@ -22,6 +22,6 @@ Qiqi Qiang and I are involved in this project, and we employ High Performance Co
 
 The work is summarized on the university’s website in the form of a case study. [Please click here to see the English version!](https://itso.cuhk.edu.cn/en/article/512) [Please click here to see the Chinese version!](https://itso.cuhk.edu.cn/article/512)
 
-Here is a flowchart that our group made!
+Here is the project's flowchart that we made!
 
 <img src="/images/Adult_Mort_Flowchart_HPC.png" width="400">
