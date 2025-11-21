@@ -9,13 +9,17 @@ excerpt: |
     </p>
   </div>
 collection: portfolio
-#tags:
-#  - Urbanization
+tags:
+  - Adult Mortality
+  - Bayesian Hierarchical Models
 published: true
 ---
 <h1 style="font-size: 2rem; font-family: Georgia, serif; font-weight: 600; margin-bottom: 1rem;">
   Estimating Adult Mortality Rates in 236 Countries Using Bayesian Hierarchical Models
 </h1>
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Qiqi Qiang and I are involved in this project, and we employ High Performance Computing (HPC) resource of the university for this project due to the model’s complexity, as well as the diversity and large volume of data. 😊👍
+
+The work is also summarized on the university’s website in the form of a case study. [Please click here to see the English version!](https://itso.cuhk.edu.cn/en/article/512) [Please click here to see the Chinese version!](https://itso.cuhk.edu.cn/article/512)
+
 
