@@ -24,4 +24,6 @@ The work is summarized on the university’s website in the form of a case study
 
 Here is the project's flowchart that we made!
 
-<img src="/images/Adult_Mort_Flowchart_HPC.png" width="400">
+<p align="center">
+  <img src="/images/Adult_Mort_Flowchart_HPC.png" width="500">
+</p>
