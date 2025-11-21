@@ -12,6 +12,7 @@ collection: portfolio
 tags:
   - Spatial Analysis
   - Urbanization
+published: false
 ---
 <h1 style="font-size: 2rem; font-family: Georgia, serif; font-weight: 600; margin-bottom: 1rem;">
   Relationship between Housing Price and Nighttime Light Intensity (NTL)
