@@ -11,7 +11,7 @@ excerpt: |
 collection: portfolio
 tags:
   - Adult Mortality
-  - Bayesian Hierarchical Models
+  - Bayesian Hierarchical Model
 published: true
 ---
 <h1 style="font-size: 2rem; font-family: Georgia, serif; font-weight: 600; margin-bottom: 1rem;">
